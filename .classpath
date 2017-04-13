@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="bharathi/src"/>
+	<classpathentry kind="lib" path="bharathi/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="bharathi/lib/commons-math-1.2.jar"/>
+	<classpathentry kind="lib" path="bharathi/lib/java-getopt-1.0.9.jar"/>
+	<classpathentry kind="lib" path="bharathi/lib/pegasus.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
